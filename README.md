@@ -1,3 +1,3 @@
-# probability_seattle-ds-062419
+# Introduction to Probability & Combinatorics
 
 This repository contains information about probability theory. It was designed for pedagogical purposes.
